@@ -9,12 +9,17 @@ contributor:
     agent_name: Métivet, Lucien
     gutenberg_agent_id: '51115'
     url: http://www.gutenberg.org/2009/agents/51115
+covers:
+- cover_type: archival
+  image_path: 60739-h/images/cover.jpg
 creator:
   author:
     agent_name: Fourest, Georges
     gutenberg_agent_id: '51113'
     url: http://www.gutenberg.org/2009/agents/51113
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60739#La-negresse-blonde-Cinquieme-hypostase-avec-soixante-quinze-Tatouages-de-Lucien-Metivet
 gutenberg_bookshelf:
 - FR Poésie
 - FR Humour
