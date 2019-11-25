@@ -1,0 +1,35 @@
+_repo: La-negresse-blonde-Cinquieme-hypostase-avec-soixante-quinze-Tatouages-de-Lucien-Metivet_60739
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Gautier-Villars, Henry
+    gutenberg_agent_id: '51114'
+    url: http://www.gutenberg.org/2009/agents/51114
+  illustrator:
+    agent_name: Métivet, Lucien
+    gutenberg_agent_id: '51115'
+    url: http://www.gutenberg.org/2009/agents/51115
+creator:
+  author:
+    agent_name: Fourest, Georges
+    gutenberg_agent_id: '51113'
+    url: http://www.gutenberg.org/2009/agents/51113
+description: ''
+gutenberg_bookshelf:
+- FR Poésie
+- FR Humour
+- FR Nouveautés
+gutenberg_issued: '2019-11-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60739'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'La négresse blonde
+
+  Cinquième hypostase, avec soixante-quinze Tatouages de Lucien Métivet'
+url: http://www.gutenberg.org/ebooks/60739
